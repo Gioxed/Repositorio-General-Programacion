@@ -1,0 +1,90 @@
+body{
+    font-family: sans-serif;
+    background-color: #469;
+    color: #fff;
+    font-size: 20px;
+}
+
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+
+.perfil {
+    background-color: #46e9;
+    text-align: justify;
+    margin: 20px;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+
+.estudios{
+    background-color: #46e9;
+    text-align: justify;
+    margin: 20px;
+    padding: 10px;
+}
+
+.lenguajes{
+    background-color: #46e9;
+    margin: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    
+}
+
+.python{
+    background-color: rgb(38, 74, 221);
+    width: 70px;
+    margin: 20px;
+    padding: 20px;
+    float: left;
+}
+
+.html{
+    background-color: rgb(38, 74, 221);
+    width: 70px;
+    margin: 20px;
+    padding: 20px;
+    float: left;
+}
+
+.css{
+    background-color: rgb(38, 74, 221);
+    width: 70px;
+    margin: 20px;
+    padding: 20px;
+    float: left;
+}
+
+.java{
+    background-color: rgb(38, 74, 221);
+    width: 70px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.soft{
+    background-color: #46e9;
+    text-align: justify;
+    margin: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.vscode{
+    background-color: rgb(38, 74, 221);
+    width: 70px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.datos {
+    background-color: #46e9;
+    text-align: justify;
+    margin: 20px;
+    padding: 10px;
+    
+}
