@@ -1,0 +1,23 @@
+.table {
+    border-collapse: collapse;
+    width: 250px;
+}
+
+.table th {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+}
+
+.table td {
+    border: 1px solid #2e2a2a;
+    padding: 8px;
+}
+
+.table {
+    background-color: #f2f2f2;
+}
+
+.tr1 {
+    background-color: #ddd;
+}
